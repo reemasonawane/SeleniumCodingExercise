@@ -1,0 +1,8 @@
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_ExerciseAPI\obj\Debug\HA_ExerciseAPI.csprojResolveAssemblyReference.cache
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_ExerciseAPI\bin\Debug\HA_ExerciseAPI.dll.config
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_ExerciseAPI\bin\Debug\HA_ExerciseAPI.dll
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_ExerciseAPI\bin\Debug\HA_ExerciseAPI.pdb
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_ExerciseAPI\bin\Debug\Newtonsoft.Json.dll
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_ExerciseAPI\bin\Debug\Newtonsoft.Json.xml
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_ExerciseAPI\obj\Debug\HA_ExerciseAPI.dll
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_ExerciseAPI\obj\Debug\HA_ExerciseAPI.pdb

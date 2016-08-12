@@ -1,0 +1,10 @@
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_Exercise\obj\Debug\HA_Exercise.csprojResolveAssemblyReference.cache
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_Exercise\bin\Debug\HA_Exercise.dll
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_Exercise\bin\Debug\HA_Exercise.pdb
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_Exercise\bin\Debug\WebDriver.dll
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_Exercise\bin\Debug\WebDriver.Support.dll
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_Exercise\bin\Debug\WebDriver.xml
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_Exercise\bin\Debug\WebDriver.Support.xml
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_Exercise\obj\Debug\HA_Exercise.dll
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_Exercise\obj\Debug\HA_Exercise.pdb
+c:\users\reemaso\documents\visual studio 2013\Projects\HA_Exercise\HA_Exercise\bin\Debug\HA_Exercise.dll.config
